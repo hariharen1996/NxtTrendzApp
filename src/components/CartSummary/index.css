@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.total-heading {
+  color: #616e7c;
+  font-size: 20px;
+}
+
+.amount {
+  color: #171f46;
+  font-size: 20px;
+}
+
+.items-count {
+  color: #616e7c;
+  font-size: 20px;
+}
+
+.checkout-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 8px 16px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
